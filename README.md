@@ -1,3 +1,11 @@
 # luckystack
 
-solid-start, payload-cms, trpc, tailwind, rive, lit, svg-sprites
+solid-start, payload-cms, trpc, tailwind, lit, svg-sprites
+
+## Development
+
+?
+
+## Deployment
+
+?

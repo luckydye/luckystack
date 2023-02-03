@@ -1,1 +1,12 @@
 node_modules
+**/.turbo
+**/.solid
+**/dist
+**/.env.local
+
+# Temp
+gitignore
+
+# System Files
+.DS_Store
+Thumbs.db
