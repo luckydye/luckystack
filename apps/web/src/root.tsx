@@ -26,13 +26,11 @@ export default function Root() {
         <meta name="description" content="luckystack" />
       </Head>
       <Body>
-        <Suspense>
-          <ErrorBoundary>
-            <Routes>
-              <FileRoutes />
-            </Routes>
-          </ErrorBoundary>
-        </Suspense>
+        <ErrorBoundary>
+          <Routes>
+            <FileRoutes />
+          </Routes>
+        </ErrorBoundary>
         <Scripts />
       </Body>
     </Html>
